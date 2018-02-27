@@ -6,12 +6,44 @@ package tree.binaryTree;
  */
 public class Node {
 
+    /**
+     *    学号
+     *
+     * @author jiangjiaxin
+     * @date 2018-02-27 14:27
+     * @param
+     * @return
+     */
     private int number;
 
+    /**
+     *    姓名
+     *
+     * @author jiangjiaxin
+     * @date 2018-02-27 14:27
+     * @param
+     * @return
+     */
     private String name;
 
+    /**
+     *    左子节点
+     *
+     * @author jiangjiaxin
+     * @date 2018-02-27 14:27
+     * @param
+     * @return
+     */
     private Node leftChild;
 
+    /**
+     *    右子节点
+     *
+     * @author jiangjiaxin
+     * @date 2018-02-27 14:27
+     * @param
+     * @return
+     */
     private Node rightChild;
 
     public Node(int number) {
