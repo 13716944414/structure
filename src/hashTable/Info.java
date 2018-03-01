@@ -1,8 +1,12 @@
 package hashTable;
 
 /**
+ *
+ *
  * @author jiangjiaxin
- * @date 2018-02-27 15:18
+ * @date 2018-03-01 17:30
+ * @param
+ * @return
  */
 public class Info {
 
