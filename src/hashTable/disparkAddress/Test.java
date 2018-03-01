@@ -1,4 +1,6 @@
-package hashTable;
+package hashTable.disparkAddress;
+
+import hashTable.Info;
 
 /**
  * @author jiangjiaxin

@@ -1,10 +1,16 @@
-package hashTable;
+package hashTable.disparkAddress;
+
+import hashTable.Info;
 
 import java.math.BigInteger;
 
 /**
+ *  哈希表-开放寻址法
+ *
  * @author jiangjiaxin
- * @date 2018-02-27 15:21
+ * @date 2018-03-01 16:15
+ * @param
+ * @return
  */
 public class HashTable {
 
